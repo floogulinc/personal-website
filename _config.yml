@@ -29,11 +29,18 @@ projects:
     # - repo-name
 
 social_media:
+  linkedin: floogulinc
+  medium: '@floogulinc'
+  telegram: floogulinc
+  twitter: floogulinc
+  youtube: floogulinc
+  keybase: floogulinc
+  mastodon: @floogulinc@mastodon.xyz
+  website: https://floogulinc.com/
+  instagram: floogulinc
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
-  linkedin: floogulinc
-  medium: '@floogulinc'
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
@@ -41,9 +48,6 @@ social_media:
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
-  telegram: floogulinc
-  twitter: floogulinc
-  youtube: floogulinc
   # vk: your_username
   # telegram: your_username
   # twitter: your_username
